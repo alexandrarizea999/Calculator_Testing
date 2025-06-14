@@ -1,4 +1,5 @@
-# I've created a simple calculator program, that will perform basic arithmetic operations, and I've done some basic unit testing on the core functions. 
+# Calculator Testing Project
+## I've created a simple calculator program, that will perform basic arithmetic operations, and I've done some basic unit testing on the core functions. 
 ## Core functions
 - addition
 - subtraction
